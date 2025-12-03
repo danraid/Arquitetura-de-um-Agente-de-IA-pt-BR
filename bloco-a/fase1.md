@@ -637,4 +637,4 @@ sequenceDiagram
 
 # 👉 Próximo capítulo
 
-Avance para **[Fase 2 — DataOps, Pipelines & Indexação de Políticas](../Fase2/fase2.md)**
+Avance para **[Fase 2 — DataOps: Ingestão & Indexação](../bloco-a/fase2.md)**
